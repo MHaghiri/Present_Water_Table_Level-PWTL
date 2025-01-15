@@ -37,13 +37,15 @@ The simulations conducted in this repository aim to:
 
 2. Navigate to the codes directory:
 
+   
+   cd Present_Water_Table_Level-(PWTL)/codes
 
-  cd Present_Water_Table_Level-(PWTL)/codes
 
 
 3. Execute scripts for specific data preparation or simulations. For example:
 
    python Calculate_VPD.py
+
  
 
 4. Review outputs stored in their respective directories.
@@ -51,8 +53,10 @@ The simulations conducted in this repository aim to:
 
 
 ## License
-This repository is licensed under MIT Licence [your license here].
+This repository is licensed under MIT Licence.
 
 
 
 ## Contributions
+
+
