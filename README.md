@@ -1,6 +1,6 @@
 # Present_Water_Table_Level(PWTL)
 
-This repository utilizes the [Water Table Model (WTM)](https://github.com/KCallaghan/WTM) to simulate the present-day water table levels across various regions. The simulations aim to provide insights into groundwater behavior using robust modeling techniques.
+This repository use the [Water Table Model (WTM)](https://github.com/KCallaghan/WTM) to simulate the present-day water table levels across various regions. The simulations aim to provide insights into groundwater behavior using robust modeling techniques.
 
 ## Repository Structure
 
@@ -59,4 +59,6 @@ This repository is licensed under MIT Licence.
 
 ## Contributions
 
+This repository is developed in collaboration with Professor Callaghan, whose expertise and guidance have been instrumental in using the Water Table Model (WTM) to simulate present-day water table levels. Contributions to this project include the development of scripts for data preparation, bias correction, spatial downscaling, and the integration of high-resolution datasets.
 
+If you would like to contribute to this repository, feel free to submit issues or create pull requests. Suggestions and improvements are always welcome.
