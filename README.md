@@ -1,5 +1,6 @@
-# Present_Water_Table_Level(PWTL)
 [![DOI](https://zenodo.org/badge/916937545.svg)](https://doi.org/10.5281/zenodo.20417549)
+# Present_Water_Table_Level(PWTL)
+
 This repository use the [Water Table Model (WTM)](https://github.com/KCallaghan/WTM) to simulate the present-day water table levels across various regions. The simulations aim to provide insights into groundwater behavior using robust modeling techniques.
 
 ## Repository Structure
